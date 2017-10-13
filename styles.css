@@ -1,0 +1,74 @@
+h1 {color: black;
+	font-size: 30pt;
+	font-weight: bold;
+	text-align: center;}
+h2 {color: black;
+	font-size: 25pt;
+	text-align: center;}
+h3 {color: black;
+	text-align: left;
+	font-size: 25pt;}
+h4 {color: darkolivegreen;
+	text-align: left;
+	font-size: 25pt;}
+	
+div {text-align: left;
+	font-size: 20pt;}
+div1 {text-align: center;}
+
+
+body {background: lightpink;
+	color: purple;
+	font-size: 20pt; 
+	font-family: 'Amatic SC', cursive;
+	text-align: center;}
+	
+UL {text-align: center;}
+	
+nav li {display: inline-block;
+	border: 2px solid black; 
+	padding: 5px;
+	margin: 10px;
+	background: thistle;
+	text-align: center;}
+	
+nav li1 {display: inline-block;
+	padding: 5px;
+	margin: 10px;}
+	
+p {font-size: 22pt;
+	color: indigo;}
+p1 {color: black;
+	text-align: center;}
+
+a {color: black;
+	text-decoration: none;}
+	
+a:hover {color: darkolivegreen}
+
+table {border-collapse: collapse;
+	width: 100%;
+	background: thistle;
+	text-align: center;
+	padding: 5px;
+	font-size: 20px;}
+
+th, td { background-color: thistle;
+    color: black;}
+
+img {image-orientation: from-image;}
+
+table {border: 2px solid black;}
+table td {border: 2px solid black;}
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
